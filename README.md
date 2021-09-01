@@ -1,11 +1,15 @@
 # Getting-and-Cleaning-Data
+
 Peer-graded Assignment: Getting and Cleaning Data Course Project
+
 This repository is made by Samuel Heinrich Soliven as his submission for Getting and Cleaning Data course project. This has the procedure on how to successfully filter out the means and standard deviations for the data.
 
-Dataset
+Dataset:
+
 Human Activity Recognition Using Smartphones
 
 Files
+
 1. CodeBook.md is a code book which describes the data, their associated variables, and the necessary changes that have been done to tidy up the data.
 
 2. run_analysis.R performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
