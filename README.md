@@ -2,7 +2,7 @@
 
 Peer-graded Assignment: Getting and Cleaning Data Course Project
 
-This repository is made by Samuel Heinrich Soliven as his submission for Getting and Cleaning Data course project. This has the procedure on how to successfully filter out the means and standard deviations for the data.
+This repository is made by Xemistry as his submission for Getting and Cleaning Data course project. This has the procedure on how to successfully filter out the means and standard deviations for the data.
 
 Dataset:
 
